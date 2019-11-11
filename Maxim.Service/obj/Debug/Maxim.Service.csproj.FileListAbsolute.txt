@@ -1,0 +1,8 @@
+C:\Users\wutia\source\repos\MaximProject\Maxim.Service\bin\Debug\Maxim.Service.dll
+C:\Users\wutia\source\repos\MaximProject\Maxim.Service\bin\Debug\Maxim.Service.pdb
+C:\Users\wutia\source\repos\MaximProject\Maxim.Service\bin\Debug\Maxim.Model.dll
+C:\Users\wutia\source\repos\MaximProject\Maxim.Service\bin\Debug\Maxim.Model.pdb
+C:\Users\wutia\source\repos\MaximProject\Maxim.Service\obj\Debug\Maxim.Service.csprojAssemblyReference.cache
+C:\Users\wutia\source\repos\MaximProject\Maxim.Service\obj\Debug\Maxim.Service.csproj.CopyComplete
+C:\Users\wutia\source\repos\MaximProject\Maxim.Service\obj\Debug\Maxim.Service.dll
+C:\Users\wutia\source\repos\MaximProject\Maxim.Service\obj\Debug\Maxim.Service.pdb

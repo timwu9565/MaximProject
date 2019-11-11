@@ -1,0 +1,5 @@
+C:\Users\wutia\source\repos\MaximProject\Maxim.Model\bin\Debug\Maxim.Model.dll
+C:\Users\wutia\source\repos\MaximProject\Maxim.Model\bin\Debug\Maxim.Model.pdb
+C:\Users\wutia\source\repos\MaximProject\Maxim.Model\obj\Debug\Maxim.Model.csprojAssemblyReference.cache
+C:\Users\wutia\source\repos\MaximProject\Maxim.Model\obj\Debug\Maxim.Model.dll
+C:\Users\wutia\source\repos\MaximProject\Maxim.Model\obj\Debug\Maxim.Model.pdb
